@@ -3,8 +3,8 @@
 
 ## 指示に従いgit clone
 
-https://github.com/VundleVim/Vundle.vim
-https://github.com/plasticboy/vim-markdown
+- https://github.com/VundleVim/Vundle.vim
+- https://github.com/plasticboy/vim-markdown
 
 
 ## Pluginのパスを設定
